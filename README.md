@@ -1,6 +1,6 @@
 # New laptop setup process
 
-## [thoughtbot laptop setup](https://github.com/thoughtbot/laptop)
+## [Laptop setup](https://github.com/thoughtbot/laptop)
 
 ```
 curl --remote-name https://raw.githubusercontent.com/thoughtbot/laptop/master/mac
@@ -13,7 +13,7 @@ sh mac 2>&1 | tee ~/laptop.log
 git clone git@github.com:benfurber/dotfiles.git ~/dotfiles
 ```
 
-## [React Native]()
+## [React Native](https://facebook.github.io/react-native/docs/getting-started)
 
 ```
 brew install yarn
@@ -24,13 +24,10 @@ brew cask install adoptopenjdk8
 
 npm install -g react-native-cli
 
-```
-
-[ ][xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
-
-```
 brew cask install adoptopenjdk
 ```
+
+- [Install Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
 ## Typescript
 
@@ -67,10 +64,10 @@ code --install-extension streetsidesoftware.code-spell-checker
 
 ## Other software
 
-[ ][firefox](https://www.mozilla.org/en-GB/firefox/download/thanks/)
-[ ][alfred](https://www.alfredapp.com/)
-[ ][spectacle](https://www.spectacleapp.com/)
-[ ][1password](https://1password.com/downloads/mac/)
+- [ ] [Firefox](https://www.mozilla.org/en-GB/firefox/download/thanks/)
+- [ ] [Alfred](https://www.alfredapp.com/)
+- [ ] [Spectacle](https://www.spectacleapp.com/)
+- [ ] [1password](https://1password.com/downloads/mac/)
 
-[ ][sketch](http://wwww.sketchapp.com/)
-[ ][postman](https://www.getpostman.com/downloads/)
+- [ ] [Sketch](http://wwww.sketchapp.com/)
+- [ ] [Postman](https://www.getpostman.com/downloads/)
