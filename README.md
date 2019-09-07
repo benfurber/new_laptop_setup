@@ -13,6 +13,13 @@ sh mac 2>&1 | tee ~/laptop.log
 git clone git@github.com:benfurber/dotfiles.git ~/dotfiles
 ```
 
+## Starting software to make life easier
+
+- [ ] [Firefox](https://www.mozilla.org/en-GB/firefox/download/thanks/)
+- [ ] [Alfred](https://www.alfredapp.com/)
+- [ ] [Spectacle](https://www.spectacleapp.com/)
+- [ ] [1password](https://1password.com/downloads/mac/)
+
 ## [React Native](https://facebook.github.io/react-native/docs/getting-started)
 
 ```
@@ -67,12 +74,7 @@ code --install-extension stpn.vscode-graphql
 code --install-extension streetsidesoftware.code-spell-checker
 ```
 
-## Other software
-
-- [ ] [Firefox](https://www.mozilla.org/en-GB/firefox/download/thanks/)
-- [ ] [Alfred](https://www.alfredapp.com/)
-- [ ] [Spectacle](https://www.spectacleapp.com/)
-- [ ] [1password](https://1password.com/downloads/mac/)
+## More software
 
 - [ ] [Slack](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12)
 - [ ] [Sketch](http://wwww.sketchapp.com/)
