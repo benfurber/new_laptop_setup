@@ -69,5 +69,14 @@ code --install-extension streetsidesoftware.code-spell-checker
 - [ ] [Spectacle](https://www.spectacleapp.com/)
 - [ ] [1password](https://1password.com/downloads/mac/)
 
+- [ ] [Slack](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12)
 - [ ] [Sketch](http://wwww.sketchapp.com/)
 - [ ] [Postman](https://www.getpostman.com/downloads/)
+
+## Other things to do
+
+[Setup mac to show](https://setapp.com/how-to/show-hidden-files-on-mac)
+
+```
+defaults write com.apple.Finder AppleShowAllFiles true
+```
