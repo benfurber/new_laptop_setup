@@ -35,6 +35,11 @@ brew cask install adoptopenjdk
 npm install -g typescript
 ```
 
+## For terminal setup
+
+- [ ] [Download DroidSansMono](https://www.nerdfonts.com/font-downloads)
+- [ ] [Import colour scheme](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Afterglow.itermcolors)
+
 ## VSCode extensions
 
 ```
